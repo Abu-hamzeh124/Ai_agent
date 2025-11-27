@@ -19,9 +19,7 @@ Python 3.10 أو أحدث
 pip install google-genai python-dotenv
 
 
-ملف .env يحتوي على مفتاح API:
 
-API_KEY=YOUR_GOOGLE_GENAI_API_KEY
 
 🏁 طريقة التشغيل
 python main.py "your prompt here" [--verbose]
